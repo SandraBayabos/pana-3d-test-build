@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/space-solution/malaysia/static/css/main.7df3064d.chunk.css",
-    "main.js": "/space-solution/malaysia/static/js/main.bcd40ba1.chunk.js",
-    "main.js.map": "/space-solution/malaysia/static/js/main.bcd40ba1.chunk.js.map",
-    "runtime-main.js": "/space-solution/malaysia/static/js/runtime-main.3c326fd4.js",
-    "runtime-main.js.map": "/space-solution/malaysia/static/js/runtime-main.3c326fd4.js.map",
+    "main.css": "/space-solution/malaysia/static/css/main.79243cea.chunk.css",
+    "main.js": "/space-solution/malaysia/static/js/main.74d774eb.chunk.js",
+    "main.js.map": "/space-solution/malaysia/static/js/main.74d774eb.chunk.js.map",
+    "runtime-main.js": "/space-solution/malaysia/static/js/runtime-main.3e77ed9c.js",
+    "runtime-main.js.map": "/space-solution/malaysia/static/js/runtime-main.3e77ed9c.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/space-solution/malaysia/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.0146a033.chunk.js": "/space-solution/malaysia/static/js/2.0146a033.chunk.js",
-    "static/js/2.0146a033.chunk.js.map": "/space-solution/malaysia/static/js/2.0146a033.chunk.js.map",
-    "static/js/3.7eb7b3eb.chunk.js": "/space-solution/malaysia/static/js/3.7eb7b3eb.chunk.js",
-    "static/js/3.7eb7b3eb.chunk.js.map": "/space-solution/malaysia/static/js/3.7eb7b3eb.chunk.js.map",
+    "static/js/2.c0b8a7d5.chunk.js": "/space-solution/malaysia/static/js/2.c0b8a7d5.chunk.js",
+    "static/js/2.c0b8a7d5.chunk.js.map": "/space-solution/malaysia/static/js/2.c0b8a7d5.chunk.js.map",
+    "static/js/3.31a144b0.chunk.js": "/space-solution/malaysia/static/js/3.31a144b0.chunk.js",
+    "static/js/3.31a144b0.chunk.js.map": "/space-solution/malaysia/static/js/3.31a144b0.chunk.js.map",
     "index.html": "/space-solution/malaysia/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/space-solution/malaysia/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.7df3064d.chunk.css.map": "/space-solution/malaysia/static/css/main.7df3064d.chunk.css.map",
-    "static/js/2.0146a033.chunk.js.LICENSE.txt": "/space-solution/malaysia/static/js/2.0146a033.chunk.js.LICENSE.txt",
+    "static/css/main.79243cea.chunk.css.map": "/space-solution/malaysia/static/css/main.79243cea.chunk.css.map",
+    "static/js/2.c0b8a7d5.chunk.js.LICENSE.txt": "/space-solution/malaysia/static/js/2.c0b8a7d5.chunk.js.LICENSE.txt",
     "static/media/01_gallery_NB-H3801_rotisserie.jpg": "/space-solution/malaysia/static/media/01_gallery_NB-H3801_rotisserie.8a251650.jpg",
     "static/media/01_gallery_NT-H900_201015.jpg": "/space-solution/malaysia/static/media/01_gallery_NT-H900_201015.36d40a94.jpg",
     "static/media/02_gallery_NB-H3801_image.jpg": "/space-solution/malaysia/static/media/02_gallery_NB-H3801_image.e499e1d6.jpg",
@@ -150,10 +150,10 @@
     "static/media/tv-2020-65hz1000-galleryimages-6-200730.jpg": "/space-solution/malaysia/static/media/tv-2020-65hz1000-galleryimages-6-200730.e22d54a2.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3c326fd4.js",
+    "static/js/runtime-main.3e77ed9c.js",
     "static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.0146a033.chunk.js",
-    "static/css/main.7df3064d.chunk.css",
-    "static/js/main.bcd40ba1.chunk.js"
+    "static/js/2.c0b8a7d5.chunk.js",
+    "static/css/main.79243cea.chunk.css",
+    "static/js/main.74d774eb.chunk.js"
   ]
 }
